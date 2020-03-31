@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Blockchain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/learning/JARVIS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/learning/JARVIS/portaudio files/portaudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/learning/NODE .JS/complete-node-bootcamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/learning/web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/projects/blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/projects/hack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/projects/laundry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EXTRAS/projects/project1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Youtube downloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/database" vcs="Git" />
+  </component>
+</project>
